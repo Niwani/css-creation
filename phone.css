@@ -1,0 +1,89 @@
+.first {
+    border-style: double;
+    border-color: rgb(90, 89, 89);
+    border-width: 2px;
+    width: 200px;
+    height: 400px;
+    border-bottom-right-radius: 32px;
+    border-bottom-left-radius: 32px;
+    border-top-right-radius: 32px;
+    border-top-left-radius: 32px;
+    display: flex;
+    align-self: center;
+    margin-top: 100px;
+    margin-left: 400px;
+    background-color: rgb(155, 151, 151);
+}
+
+.second {
+    border-style: solid;
+    border-color: black;
+    width: 10px;
+    height: 5px;
+    margin-top: -380px;
+    margin-left: 420px;
+    border-radius: 50%;
+    background-color: rgb(58, 57, 57);
+}
+
+.third {
+    border-style: solid;
+    width: 35px;
+    height: 5px;
+    margin-top: -13px;
+    margin-left: 480px;
+    border-radius: 32px;
+    background-color: snow;
+}
+
+.fourth {
+    border-style: solid;
+    border-color: black;
+    width: 10px;
+    height: 5px;
+    margin-top: -10px;
+    margin-left: 450px;
+    border-radius: 50%;
+    background-color: rgb(58, 57, 57);
+}
+
+.fifth {
+    border-style: double;
+    border-color: black;
+    width: 198px;
+    height: 320px;
+    margin-left: 400px;
+    margin-top: 5px;
+    background-color: snow;
+}
+
+.sixth {
+    border-style: double;
+    border-color: black;
+    width: 35px;
+    height: 10px;
+    border-radius: 32px;
+    margin-left: 480px;
+    margin-top: 10px;
+}
+
+.seventh {
+    border-style: double;
+    border-color: black;
+    width: 20px;
+    height: 10px;
+    border-radius: 50%;
+    margin-top: -372px;
+    margin-left: 550px;
+}
+
+button {
+    border-style: double;
+    border-color: black;
+    width: 35px;
+    height: 10px;
+    border-radius: 32px;
+    margin-top: 343px;
+    margin-left: 482px;
+    cursor: pointer;
+}
